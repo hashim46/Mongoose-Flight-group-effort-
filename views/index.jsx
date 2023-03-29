@@ -41,7 +41,7 @@ function Index(props) {
                         <button>CLEAR</button>
                     </form> <br/> <br/> <br/> <br/>
 
-                    <form action="/flights/seed" method="POST">
+                    <form action="/flights/seed" method="GET">
                     <button>SEED</button>
                     </form>
 
